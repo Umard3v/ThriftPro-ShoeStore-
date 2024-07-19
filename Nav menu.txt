@@ -1,0 +1,51 @@
+Here's a suggested navigation menu for your website selling running shoes and watches:
+
+1. **Home**
+   - Introduction to your store
+   - Featured products or promotions
+
+2. **Shop**
+   - **Running Shoes**
+     - Men's Shoes
+     - Women's Shoes
+     - Kids' Shoes
+   - **Watches**
+     - Men's Watches
+     - Women's Watches
+     - Smartwatches
+
+3. **New Arrivals**
+   - Latest products
+   - Trending items
+
+4. **Best Sellers**
+   - Top-selling products
+   - Customer favorites
+
+5. **Brands**
+   - Nike
+   - Adidas
+   - Puma
+   - Garmin
+   - Fitbit
+
+6. **Sale**
+   - Discounted items
+   - Clearance
+
+7. **About Us**
+   - Company history
+   - Mission and vision
+
+8. **Contact Us**
+   - Contact form
+   - Customer service information
+
+9. **My Account**
+   - Login/Registration
+   - Order history
+   - Wishlist
+
+10. **Cart**
+    - View items in cart
+    - Checkout process
